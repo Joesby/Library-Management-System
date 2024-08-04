@@ -1,0 +1,5 @@
+Brave-New-World, Aldous-Huxley, Fiction, 978-0-965-18519-6, 06/07/1932
+Jurassic-Park, Michael-Crichton, Horror, 978-0-345-53898-7, 11/20/1990
+The-Hunger-Games, Suzanne-Collins, Action, 978-0-439-02348-1, 09/14/2008
+The-Maze-Runner, James-Dashner, Science-Fiction, 978-0-385-73794-4, 10/06/2009
+The-Book-Thief, Markus-Zusak, Historical-Fiction, 978-0-375-84220-7, 03/02/2005
